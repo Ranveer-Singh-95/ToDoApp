@@ -1,4 +1,4 @@
-package net.guides.todo.todomanagementspringboot2;
+package net.guides.springboot.todomanagementspringboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
